@@ -9,8 +9,9 @@
  
 
   <script>
+  var i= aaaaaaa
 
-    alert('Hello, World!')
+    alert('Hello, World!'+ i )
 
   </script>
 
